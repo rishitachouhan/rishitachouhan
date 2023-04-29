@@ -21,6 +21,7 @@ I am a Data Scientist currently working at AXA GO BO. I have done pgp in Advance
 | DataBase | SQL |
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
+| Time Series Forecasting | ARMA , ARIMA , SARIMA , SARIMAX |
 | Deep Learning | Neural Networks ,Data Augmentation, Execution with Python |
 | Cloud | Basic AWS |
 | Version control | GIT |
