@@ -22,7 +22,6 @@ I am a Data Scientist currently working at AXA GO BO. I have done pgp in Advance
 | Tools/ IDE | PyCharm, VSCode, Jupyter Notebook, Colab |
 | Machine Learning | EDA, ML-Algorithms, Execution with python |
 | Deep Learning | Neural Networks ,Data Augmentation, Execution with Python |
-| Natural Language Processing | Neural Network , Transfer learning, Execution with Python |
 | Cloud | Basic AWS |
 | Version control | GIT |
 
