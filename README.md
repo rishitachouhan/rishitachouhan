@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Rishita Chouhan
 
-<!--
-**rishitachouhan/rishitachouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist currently working at AXA GO BO. I have done pgp in Advance Data Science and Machine Learning .I have insights into EDA, MySQL, Python, Tableau ,Machine Learning, Deep Learning, NLP , AWS , GIT.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ - 🌱 You can visit my Capston project - ✨https://github.com/rishitachouhan/Amazon-Product-Review-Sentiment-Analysis✨ 
+ - 👨‍💻 My Tableau Projects are at: https://public.tableau.com/app/profile/rishita.chouhan (Tableau Public)
+ - 📫 How to reach me: rishitchouhan@icloud.com
+ - ⚡ Fun Fact: The most life-changing book for me is Bhagwad Gita.
+
+-->Languages and Tools:
+
+git mysql oracle  python tableau 
