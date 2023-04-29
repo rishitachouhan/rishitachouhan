@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Rishita Chouhan
 
-I am a Data Scientist currently working at AXA GO BO. I have done pgp in Advance Data Science and Machine Learning .I have insights into EDA, MySQL, Python, Tableau ,Machine Learning, Deep Learning, NLP , AWS , GIT.
+I am a Data Scientist currently working at AXA GO BO. I have done pgp in Advance Data Science and Machine Learning .
 
 
 
